@@ -1,4 +1,4 @@
-# unofficial-rainbow-six-siege-api (v.---)
+# unofficial-rainbow-six-siege-api (v.1.0-beta1)
 Unofficial R6 API by scraping data from the r6stats page
 
 # Authentication and Rate Limits
@@ -17,6 +17,8 @@ The documention for the API is available under https://docs.henrikdev.xyz/r6-api
 - The base url is https://api.henrikdev.xyz
 - Available profile/player endpoints will be for the initial release:
   - /r6/v1/profile/{name} ⚠️
+  - /r6/v1/profile/{name}/season ⚠️
+  - /r6/v1/profile/{name}/operator ⚠️
 
 ⚠️== Beta | ❌ == Deprecated, will result in 410 Error
   
@@ -26,8 +28,6 @@ The documention for the API is available under https://docs.henrikdev.xyz/r6-api
 # Usage
 - N.A
 
-# Legal
----
 # Contributors
 - N.A
 
