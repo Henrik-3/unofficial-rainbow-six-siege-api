@@ -11,11 +11,11 @@ If you exceed rate limit you will get following JSON with 429 Status Code:
 }
 ```
 # Documentation
-The documention for the API is available under https://docs.henrikdev.xyz/r6-api.html [COMING WITH THE RELEASE]
+The documention for the API is available under https://docs.henrikdev.xyz/r6-api.html
 
 # Endpoints
 - The base url is https://api.henrikdev.xyz
-- Platforms available: px, xbox, ps4
+- Platforms available: pc, xbox, ps4
 - Available profile/player endpoints will be for the initial release:
   - /r6/v1/profile/{platform}/{name} ⚠️
   - /r6/v1/profile/{platform}/{name}/season ⚠️
