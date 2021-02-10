@@ -16,9 +16,9 @@ The documention for the API is available under https://docs.henrikdev.xyz/r6-api
 # Endpoints
 - The base url is https://api.henrikdev.xyz
 - Available profile/player endpoints will be for the initial release:
-  - /r6/v1/profile/{name} ⚠️
-  - /r6/v1/profile/{name}/season ⚠️
-  - /r6/v1/profile/{name}/operator ⚠️
+  - /r6/v1/profile/{platform}/{name} ⚠️
+  - /r6/v1/profile/{platform/{name}/season ⚠️
+  - /r6/v1/profile/{platform/{name}/operator ⚠️
 
 ⚠️== Beta | ❌ == Deprecated, will result in 410 Error
   
