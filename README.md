@@ -1,6 +1,9 @@
 # unofficial-rainbow-six-siege-api (v.1.0-beta1)
 Unofficial R6 API by scraping data from the r6stats page
 
+# Status
+See the current status of the API here: https://status.henrikdev.xyz/
+
 # Authentication and Rate Limits
 All rate limits are the same for every endpoint, so in general you have **200 Requests every 2 Minutes**. Your rate limit is based on your IP so you don't need an API Key for authentication.
 If you exceed rate limit you will get following JSON with 429 Status Code:
