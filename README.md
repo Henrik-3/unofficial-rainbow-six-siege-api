@@ -40,7 +40,7 @@ Also would be happy if you give the project a star and give credit when you use 
 
 - Other API's
   - https://github.com/Henrik-3/unofficial-valorant-api
-  - https://github.com/Henrik-3/unofficial-rocket-league-api
+  - https://github.com/Henrik-3/unofficial-splitgate-api
 
 
 If you have any questions write on Discord: Henrik3#1451. 
